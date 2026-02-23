@@ -1,10 +1,17 @@
+
 # Onboarding Documentation
 
-This repository defines onboarding standards by job title.
+This repository documents onboarding for all roles in the company.
 
-Purpose:
-- Document what access, hardware, and accounts each role receives
-- Provide a single source of truth for HR, IT, and leadership
-- Track changes over time through Git history
+**Purpose:**
 
-This repository does not track onboarding completion.
+- Central reference for hardware, software, and accounts for each role
+- Provides a single source of truth
+- Links to reusable configuration blocks to avoid duplication
+
+**Folder Overview:**
+
+- `roles/` — Individual role documentation
+- `configurations/` — Reusable configuration blocks
+- `onboarding-matrix.md` — High-level view mapping roles to blocks
+- `changelog.md` — Log of updates
