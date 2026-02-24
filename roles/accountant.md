@@ -7,8 +7,8 @@
 ## Device Based Provisioning
 
 - Portable Windows PC
-  - [PWPC-Base](/configurations/PWPC-Base.md)
-  - [PWPC-1](/configurations/PWPC-1.md)
+  - [PWPC-Base](/configurations/PWPC/PWPC-Base.md)
+  - [PWPC-1](/configurations/PWPC/PWPC-1.md)
 - ScanSnap Scanner
 
 ## Non Device Based Provisioning
