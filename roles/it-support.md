@@ -1,17 +1,14 @@
 # IT Support Manager
 
-## Job Description
+## Global Variable for all Employees = `base`
 
-~~Brief description of this role (Coming Soon).~~
+## Device Based Provisioning
 
-## Hardware and their Software Variables
-
-- Portable Windows PC
+- [Portable Windows PC](../configurations/PWPC-2)
 - iPhone
 - MacBook Pro
-- Key Fob
 
-## Additional Software
+## Non Device Based Provisioning
 
 - Asana
 - MS Exchange Online License
