@@ -2,7 +2,7 @@
 
 ## Global Variable for all Employees
 
-- [Base](roles\accountant.md)
+- [Base](/configurations/PWPC/PWPC-1.md)
 
 ## Device Based Provisioning
 
