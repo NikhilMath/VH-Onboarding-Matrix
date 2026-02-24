@@ -8,7 +8,7 @@
 - ConnectWise
 - Update Windows Completely
 - Entra ID
-- Add `Known Networks`
+- Add Known Networks
   - `Visionary_Corp`
   - `LVHD`
   - `VHD` (Model Homes)
