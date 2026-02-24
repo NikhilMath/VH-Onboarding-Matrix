@@ -1,25 +1,20 @@
 # Template
 
-## Job Description
 
-Brief description of this role.
 
-## Hardware
+## Hardware and their Software Variables
 
-- Laptop: [See laptops](../configurations/hardware/laptops.md)
-- Phone: [See phones](../configurations/hardware/phones.md)
+- Portable Windows PC
+- iPhone
+- MacBook Pro
+- Key Fob
 
-## Software
+## Additional Software
 
-- CRM: [See CRM](../configurations/software/crm.md)
-- Email: [See Email](../configurations/software/email.md)
-- VPN: [See VPN](../configurations/software/vpn.md)
-
-## Accounts
-
-- AD Groups: [See AD Groups](../configurations/accounts/ad-groups.md)
-- Admin Portals: [See Admin Portals](../configurations/accounts/admin-portals.md)
-
-## Notes
-
-Add any role-specific notes here.
+- Asana
+- HB1 Finance License
+- MS Exchange Online License
+- MS Power BI Pro License
+- Splashtop Business
+- Splashtop Technician License
+- Teams Phone Number

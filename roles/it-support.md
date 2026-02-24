@@ -4,7 +4,7 @@
 
 ~~Brief description of this role (Coming Soon).~~
 
-## Hardware
+## Hardware and their Software Variables
 
 - Portable Windows PC
 - iPhone
@@ -13,7 +13,8 @@
 
 ## Additional Software
 
-- Microsoft 365 Licenses: [See CRM](../configurations/software/crm.md)
-- HB1
-  - None
-- VPN: [See VPN](../configurations/software/vpn.md)
+- Asana
+- MS Exchange Online License
+- MS Power BI Pro License
+- Splashtop Business
+- Splashtop Technician License
