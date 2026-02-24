@@ -13,4 +13,4 @@
 
 ### Some but not all Titles that use this Configuration
 
-- EVERYONE
+- Everyone
