@@ -1,17 +1,9 @@
 
 # Onboarding Documentation
 
-This repository documents onboarding for all roles in the company.
+This documents onboarding provisions for all roles in the company.
 
-**Purpose:**
+## How To Use This Repo
 
-- Central reference for hardware, software, and accounts for each role
-- Provides a single source of truth
-- Links to reusable configuration blocks to avoid duplication
-
-**Folder Overview:**
-
-- `roles/` — Individual role documentation
-- `configurations/` — Reusable configuration blocks
-- `onboarding-matrix.md` — High-level view mapping roles to blocks
-- `changelog.md` — Log of updates
+- Open on the `roles` folder
+- Open the file that corrisponds to the title of new employee
