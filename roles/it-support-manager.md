@@ -1,6 +1,7 @@
 # IT Support Manager
 
-## Global Variable for all Employees = `base`
+## Global Variable for all Employees
+[Base](/configurations/Base.md)
 
 ## Device Based Provisioning
 
