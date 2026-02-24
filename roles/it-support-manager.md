@@ -1,13 +1,14 @@
 # IT Support Manager
 
 ## Global Variable for all Employees
-[Base](/configurations/Base.md)
+
+- [Base](/configurations/Base.md)
 
 ## Device Based Provisioning
 
 - Portable Windows PC
-  - [PWPC-Base](/configurations/PWPC-Base.md)
-  - [PWPC-2](/configurations/PWPC-2.md)
+  - [PWPC-Base](/configurations/PWPC/PWPC-Base.md)
+  - [PWPC-2](/configurations/PWPC/PWPC-2.md)
 - iPhone
 - MacBook Pro
 

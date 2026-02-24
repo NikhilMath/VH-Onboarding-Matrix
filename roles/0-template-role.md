@@ -1,20 +1,18 @@
 # Template
 
+## Global Variable for all Employees
 
+- [Base](/configurations/Base.md)
 
-## Hardware and their Software Variables
+## Device Based Provisioning
 
 - Portable Windows PC
+  - [PWPC-Base](/configurations/PWPC-Base.md)
+  - [PWPC-2](/configurations/PWPC-2.md)
 - iPhone
 - MacBook Pro
-- Key Fob
 
-## Additional Software
+## Non Device Based Provisioning
 
-- Asana
-- HB1 Finance License
 - MS Exchange Online License
 - MS Power BI Pro License
-- Splashtop Business
-- Splashtop Technician License
-- Teams Phone Number
