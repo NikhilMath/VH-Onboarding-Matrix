@@ -4,7 +4,8 @@
 
 ## Device Based Provisioning
 
-- [Portable Windows PC](../configurations/PWPC-2)
+- Portable Windows PC
+  - [PWPC-2](/configurations/PWPC-2)
 - iPhone
 - MacBook Pro
 
