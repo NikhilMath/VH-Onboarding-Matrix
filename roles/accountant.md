@@ -2,7 +2,7 @@
 
 ## Global Variable for all Employees
 
-- [Base](/configurations/Base.md)
+- [Base](/configurations/BASE.md)
 
 ## Device Based Provisioning
 
