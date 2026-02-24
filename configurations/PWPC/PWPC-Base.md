@@ -4,7 +4,9 @@
 
 - ShadowSpear
 - Splashtop Streamer
+- Microsoft Office
 - Big Timber Printer
+- (Printers for respected office)
 - ConnectWise
 - Update Windows Completely
 - Entra ID
