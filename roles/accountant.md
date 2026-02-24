@@ -2,7 +2,7 @@
 
 ## Global Variable for all Employees
 
-- [Base](/configurations/Base.md)
+- [Base](roles\accountant.md)
 
 ## Device Based Provisioning
 
