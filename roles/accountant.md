@@ -2,7 +2,7 @@
 
 ## Global Variable for all Employees
 
-- [Base](/configurations/PWPC/PWPC-1.md)
+- [Base](/configurations/Base.md)
 
 ## Device Based Provisioning
 
