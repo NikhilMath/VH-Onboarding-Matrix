@@ -25,5 +25,3 @@ For a **Director of Construction**, the variable list might look like:
 2. `const-dir`
 
 Since `const-dir` appears last, its HB1 license (*Activity*) will override the earlier assignment (*Teams*) from `const-base`.
-
-testing to see if the the transfer works
