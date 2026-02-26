@@ -1,8 +1,6 @@
 
 # Onboarding Documentation
 
-This documents onboarding provisions for all roles in the company.
-
 ## How to Find Provisions for a Role
 
 Follow these steps to see what provisions are required for a new employee:
