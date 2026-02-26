@@ -10,7 +10,7 @@
   - [PWPC-Base](/configurations/PWPC/PWPC-Base.md)
   - [PWPC-SALES](/configurations/PWPC/PWPC-SALES.md)
 - iPhone
-  - [VBC]
+  - [vbc-base]
 
 ## Non Device Based Provisioning
 
