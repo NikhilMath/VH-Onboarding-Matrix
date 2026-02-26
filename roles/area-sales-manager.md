@@ -10,8 +10,9 @@
   - [PWPC-Base](/configurations/PWPC/PWPC-Base.md)
   - [PWPC-SALES](/configurations/PWPC/PWPC-SALES.md)
 - iPhone
-  - [vbc-base](/configurations/Device-Provisions/vbc/vbc-base.md)
+  - [vbc-base](/configurations/Device-Provisions/mobile/vbc-base.md)
+  - [iph-sales](/configurations/Device-Provisions/mobile/iph-sales.md)
 
 ## Non Device Based Provisioning
 
-- [ACCT-BASE](/configurations/ACCT/ACCT-BASE.md)
+- [sales-base](/configurations/Non-Device-Provisions/sales/sales-base.md)
