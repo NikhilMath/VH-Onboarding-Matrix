@@ -16,7 +16,3 @@
 ## Non Device Based Provisioning
 
 - [sales-base](/configurations/Non-Device-Provisions/sales/sales-base.md)
-
----
-
-_Last updated: 2026-02-25_
