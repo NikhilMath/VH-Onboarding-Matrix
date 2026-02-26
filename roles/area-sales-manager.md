@@ -1,4 +1,4 @@
-# Sales Area Manager
+# Sales Area Manager ✅
 
 ## Global Variable for all Employees
 
