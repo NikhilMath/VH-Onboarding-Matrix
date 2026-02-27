@@ -13,4 +13,4 @@
 
 ## Non Device Based Provisioning
 
-- [acct-base](/configurations/acct/acct-base.md)
+- [acct-base](/configurations/non-device-provisions/acct/acct-base.md)
