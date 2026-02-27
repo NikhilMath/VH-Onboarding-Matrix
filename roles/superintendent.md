@@ -2,17 +2,17 @@
 
 ## Global Variable for all Employees
 
-- [BASE](/configurations/BASE.md)
+- [base](/configurations/base.md)
 
 ## Device Based Provisioning
 
 - iPhone
-  - [vbc-base](/configurations/Device-Provisions/mobile/vbc-base.md)
-  - [iph-const](/configurations/Device-Provisions/mobile/iph-const)
+  - [vbc-base](/configurations/device-provisions/mobile/vbc-base.md)
+  - [iph-const](/configurations/device-provisions/mobile/iph-const.md)
 - iPad
-  - [vbc-base](/configurations/Device-Provisions/mobile/vbc-base.md)
-  - [iph-const](/configurations/Device-Provisions/mobile/iph-const)
+  - [vbc-base](/configurations/device-provisions/mobile/vbc-base.md)
+  - [iph-const](/configurations/device-provisions/mobile/iph-const.md)
 
 ## Non Device Based Provisioning
 
-- [const-base](/configurations/Non-Device-Provisions/const/const-base.md)
+- [const-base](/configurations/non-device-provisions/const/const-base.md)

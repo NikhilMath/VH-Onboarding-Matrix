@@ -2,21 +2,21 @@
 
 ## Global Variable for all Employees
 
-- [BASE](/configurations/BASE.md)
+- [base](/configurations/base.md)
 
 ## Device Based Provisioning
 
 - iPhone
-  - [vbc-base](/configurations/Device-Provisions/mobile/vbc-base.md)
-  - [iph-const](/configurations/Device-Provisions/mobile/iph-const)
+  - [vbc-base](/configurations/device-provisions/mobile/vbc-base.md)
+  - [iph-const](/configurations/device-provisions/mobile/iph-const.md)
 - iPad
-  - [vbc-base](/configurations/Device-Provisions/mobile/vbc-base.md)
-  - [iph-const](/configurations/Device-Provisions/mobile/iph-const)
+  - [vbc-base](/configurations/device-provisions/mobile/vbc-base.md)
+  - [iph-const](/configurations/device-provisions/mobile/iph-const.md)
 - Portable Windows PC
-  - [PWPC-Base](/configurations/PWPC/PWPC-Base.md)
-  - [const-dir](/configurations/Device-Provisions/const/const-dir.md)
+  - [pwpc-base](/configurations/device-provisions/pwpc/pwpc-base.md)
+  - [const-dir](/configurations/device-provisions/const/const-dir.md)
 
 ## Non Device Based Provisioning
 
-- [const-base](/configurations/Non-Device-Provisions/const/const-base.md)
-- [const-dir](/configurations/Non-Device-Provisions/const/const-dir.md)
+- [const-base](/configurations/non-device-provisions/const/const-base.md)
+- [const-dir](/configurations/non-device-provisions/const/const-dir.md)

@@ -2,18 +2,18 @@
 
 ## Global Variable for all Employees
 
-- [Base](/configurations/Base.md)
+- [base](/configurations/base.md)
 
 ## Device Based Provisioning
 
 - Portable Windows PC
-  - [PWPC-Base](/configurations/PWPC/PWPC-Base.md)
-  - [PWPC-2](/configurations/PWPC/PWPC-2.md)
+  - [pwpc-base](/configurations/device-provisions/pwpc/pwpc-base.md)
+  - [pwpc-2](/configurations/device-provisions/pwpc/pwpc-2.md)
 - iPhone
-  - [vbc-base](/configurations/Device-Provisions/mobile/vbc-base.md)
-  - [iph-it](/configurations/Device-Provisions/mobile/iph-it.md)
+  - [vbc-base](/configurations/device-provisions/mobile/vbc-base.md)
+  - [iph-it](/configurations/device-provisions/mobile/iph-it.md)
 - MacBook Pro
-  - [iph-it](/configurations/Device-Provisions/mobile/iph-it.md)
+  - [iph-it](/configurations/device-provisions/mobile/iph-it.md)
 
 ## Non Device Based Provisioning
 
