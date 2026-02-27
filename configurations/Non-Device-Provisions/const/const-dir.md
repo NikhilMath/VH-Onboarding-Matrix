@@ -6,7 +6,4 @@
 - HB1 Activity License
 - MS Exchange Online
 - MS Power BI Pro
-
-
 - Adobe Acrobat
--
