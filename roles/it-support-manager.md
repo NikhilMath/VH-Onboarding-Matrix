@@ -17,5 +17,5 @@
 
 ## Non Device Based Provisioning
 
-- MS Exchange Online License
-- MS Power BI Pro License
+- [it-base](/configurations/non-device-provisions/it/it-base)
+
