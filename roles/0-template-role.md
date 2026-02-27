@@ -1,18 +1,16 @@
-# Template
+# Template `Not Completed`
 
 ## Global Variable for all Employees
 
-- [Base](/configurations/Base.md)
+- [base](/configurations/base.md)
 
 ## Device Based Provisioning
 
 - Portable Windows PC
-  - [PWPC-Base](/configurations/PWPC-Base.md)
-  - [PWPC-2](/configurations/PWPC-2.md)
+  - [pwpc-base](/configurations/device-provisions/pwpc/pwpc-base.md)
 - iPhone
 - MacBook Pro
 
 ## Non Device Based Provisioning
 
-- MS Exchange Online License
-- MS Power BI Pro License
+- [sales-base]
