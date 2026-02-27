@@ -2,15 +2,15 @@
 
 ## Global Variable for all Employees
 
-- [BASE](/configurations/BASE.md)
+- [base](/configurations/base.md)
 
 ## Device Based Provisioning
 
 - Portable Windows PC
-  - [PWPC-Base](/configurations/PWPC/PWPC-Base.md)
-  - [PWPC-1](/configurations/PWPC/PWPC-1.md)
+  - [pwpc-base](/configurations/device-provisions/pwpc/pwpc-base.md)
+  - [pwpc-1](/configurations/device-provisions/pwpc/pwpc-1.md)
 - ScanSnap Scanner
 
 ## Non Device Based Provisioning
 
-- [ACCT-BASE](/configurations/ACCT/ACCT-BASE.md)
+- [acct-base](/configurations/non-device-provisions/acct/acct-base.md)
