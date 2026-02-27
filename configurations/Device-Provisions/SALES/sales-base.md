@@ -1,4 +1,4 @@
-# Sales Base
+# sales-base
 
 ## Applications
 

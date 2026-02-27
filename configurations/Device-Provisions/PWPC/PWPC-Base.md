@@ -1,4 +1,4 @@
-# PWPC-BASE
+# pwpc-base
 
 ## Applications
 

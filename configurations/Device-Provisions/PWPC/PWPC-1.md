@@ -1,4 +1,4 @@
-# PWPC-1
+# pwpc-1
 
 ## Applications
 
